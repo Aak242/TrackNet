@@ -1,0 +1,11 @@
+*.jpg
+*.mp4
+/.venv
+/__pycache__
+exps/default/plots/events.out.tfevents.1739108370.Aak242
+exps/default/plots/events.out.tfevents.1739108444.Aak242
+exps/default/plots/events.out.tfevents.1739108524.Aak242
+exps/default/plots/events.out.tfevents.1739108813.Aak242
+exps/default/plots/events.out.tfevents.1739108949.Aak242
+exps/default/plots/events.out.tfevents.1739109285.Aak242
+exps/default/plots/events.out.tfevents.1739109850.Aak242
